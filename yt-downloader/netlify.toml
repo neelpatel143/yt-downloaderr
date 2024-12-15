@@ -1,0 +1,3 @@
+[build]
+  publish = "yt-downloader/frontend/"
+  functions = "yt-downloader/functions/"
